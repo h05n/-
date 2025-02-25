@@ -1,5 +1,14 @@
+#音乐服
+
+#音海
+DOMAIN-SUFFIX,makifx.com
+
+
+
+#影视服
+
 #鹅服
-DOMAIN-SUFFIX,pppp.us.kg
+IP-CIDR,43.143.248.18/32
 
 #pilipili
 DOMAIN-SUFFIX,streamer.pilipiliultra.com
