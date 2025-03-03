@@ -19,9 +19,6 @@ DOMAIN-SUFFIX,0v0.day
 DOMAIN-SUFFIX,029902.xyz
 DOMAIN-SUFFIX,embyplus.org
 
-#結束バンド
-DOMAIN-SUFFIX,biliblili.uk
-
 #琴鸟
 IP-CIDR,188.172.228.65/32
 
