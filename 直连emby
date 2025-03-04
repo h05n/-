@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,vfing.de
 DOMAIN-SUFFIX,qzuie.top
 DOMAIN-SUFFIX,28.al
 DOMAIN-SUFFIX,favoritewife.com
+IP-CIDR,135.181.134.46/32
 
 #July
 DOMAIN-SUFFIX,july.vfing.de
