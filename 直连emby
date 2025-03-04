@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,favoritewife.com
 DOMAIN-SUFFIX,july.vfing.de
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,115cdn.net
+IP-CIDR,45.142.176.135/32
 
 #二次元
 DOMAIN-SUFFIX,nijigem.by
