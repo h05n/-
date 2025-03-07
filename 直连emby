@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,makifx.com
 
 #鹅服
 IP-CIDR,43.143.248.18/32
+DOMAIN-SUFFIX,10086.cn
 
 #pilipili
 DOMAIN-SUFFIX,streamer.pilipiliultra.com
@@ -28,6 +29,8 @@ DOMAIN-SUFFIX,285286.xyz
 #大V影院
 DOMAIN-SUFFIX,viclub.top
 DOMAIN-SUFFIX,306699.xyz
+DOMAIN-SUFFIX,bcebos.com
+IP-CIDR,43.143.248.18/32
 
 #垃圾影音
 IP-CIDR,152.70.233.134/32
