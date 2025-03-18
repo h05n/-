@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,embyplus.org
 
 #琴鸟
 IP-CIDR,188.172.228.65/32
-DOMAIN-SUFFIX,white-line-cm.lyrebirdemby.com
+DOMAIN-SUFFIX,lyrebirdemby.com
 
 #temby
 DOMAIN-SUFFIX,285286.xyz
