@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,makifx.com
 #鹅服
 IP-CIDR,43.143.248.18/32
 DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,eu.org
 
 #pilipili
 DOMAIN-SUFFIX,streamer.pilipiliultra.com
