@@ -4,8 +4,11 @@
 DOMAIN-SUFFIX,makifx.com
 
 
-
 #影视服
+
+#综合
+DOMAIN-SUFFIX,115cdn.net
+DOMAIN-SUFFIX,vfing.de
 
 #鹅服
 IP-CIDR,43.143.248.18/32
@@ -32,10 +35,10 @@ DOMAIN-SUFFIX,lyrebirdemby.com
 DOMAIN-SUFFIX,285286.xyz
 
 #大V影院
+IP-CIDR,43.143.248.18/32
 DOMAIN-SUFFIX,viclub.top
 DOMAIN-SUFFIX,306699.xyz
 DOMAIN-SUFFIX,bcebos.com
-IP-CIDR,43.143.248.18/32
 DOMAIN-SUFFIX,saturday.video
 
 #垃圾影音
@@ -47,33 +50,27 @@ DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,mcjoker.xyz
 
 #起点站
-DOMAIN-SUFFIX,vfing.de
-DOMAIN-SUFFIX,qzuie.top
-DOMAIN-SUFFIX,28.al
-DOMAIN-SUFFIX,favoritewife.com
 IP-CIDR,135.181.134.46/32
 IP-CIDR,218.93.206.95/32
 IP-CIDR,183.214.197.130/32
 IP-CIDR,111.255.254.121/32
+DOMAIN-SUFFIX,qzuie.top
+DOMAIN-SUFFIX,28.al
+DOMAIN-SUFFIX,favoritewife.com
 
 #July
-DOMAIN-SUFFIX,july.vfing.de
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,115cdn.net
 IP-CIDR,45.142.176.135/32
+DOMAIN-SUFFIX,sharepoint.com
 
 #二次元
 DOMAIN-SUFFIX,nijigem.by
 DOMAIN-SUFFIX,cdn.bgp.yt
 
 #nyamedia
-DOMAIN-SUFFIX,bangumi.ca
 IP-CIDR,104.21.16.1/32
+DOMAIN-SUFFIX,bangumi.ca
 
 #hxd
 DOMAIN-SUFFIX,bili.rip
-
-#桃子
-DOMAIN-SUFFIX,embymv.link
 
 #
