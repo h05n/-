@@ -1,14 +1,9 @@
-#音乐服
-
-#音海
-DOMAIN-SUFFIX,makifx.com
-
-
-#影视服
-
-#综合
+#综合#
 DOMAIN-SUFFIX,115cdn.net
 DOMAIN-SUFFIX,vfing.de
+
+
+#影视服#
 
 #鹅服
 IP-CIDR,43.143.248.18/32
@@ -74,3 +69,9 @@ DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,bili.rip
 
 #
+
+
+#音乐服#
+
+#音海
+DOMAIN-SUFFIX,makifx.com
