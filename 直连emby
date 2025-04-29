@@ -17,9 +17,6 @@ DOMAIN-SUFFIX,embyplus.org
 IP-CIDR,188.172.228.65/32
 DOMAIN-SUFFIX,lyrebirdemby.com
 
-#temby
-DOMAIN-SUFFIX,285286.xyz
-
 #大V影院
 IP-CIDR,43.143.248.18/32
 DOMAIN-SUFFIX,viclub.top
@@ -45,10 +42,6 @@ DOMAIN-SUFFIX,qzuie.top
 DOMAIN-SUFFIX,28.al
 DOMAIN-SUFFIX,favoritewife.com
 
-#July
-IP-CIDR,45.142.176.135/32
-DOMAIN-SUFFIX,sharepoint.com
-
 #二次元
 DOMAIN-SUFFIX,nijigem.by
 DOMAIN-SUFFIX,cdn.bgp.yt
@@ -57,13 +50,4 @@ DOMAIN-SUFFIX,cdn.bgp.yt
 IP-CIDR,104.21.16.1/32
 DOMAIN-SUFFIX,bangumi.ca
 
-#hxd
-DOMAIN-SUFFIX,bili.rip
-
 #
-
-
-#音乐服#
-
-#音海
-DOMAIN-SUFFIX,makifx.com
