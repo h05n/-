@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,0v0.day
 DOMAIN-SUFFIX,029902.xyz
 DOMAIN-SUFFIX,embyplus.org
 
+#bilibili
+DOMAIN-SUFFIX,994959.xyz
+
 #琴鸟
 IP-CIDR,188.172.228.65/32
 DOMAIN-SUFFIX,lyrebirdemby.com
