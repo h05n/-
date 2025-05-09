@@ -3,6 +3,16 @@ DOMAIN-SUFFIX,115cdn.net
 DOMAIN-SUFFIX,vfing.de
 
 
+#书源
+
+#大灰狼
+DOMAIN-SUFFIX,langge.cf
+#晴天
+DOMAIN-SUFFIX,qingtian618.com
+#书山
+DOMAIN-SUFFIX,shusan.xyz
+
+
 #影视服#
 
 #孤独摇滚
@@ -59,4 +69,4 @@ DOMAIN-SUFFIX,cdn.bgp.yt
 IP-CIDR,104.21.16.1/32
 DOMAIN-SUFFIX,bangumi.ca
 
-#，
+#
