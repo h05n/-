@@ -1,5 +1,11 @@
 #综合
 
+#豆瓣
+DOMAIN-SUFFIX,douban.com
+
+#TMDB
+DOMAIN-SUFFIX,tmdb.org
+
 
 #影视服
 
