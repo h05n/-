@@ -3,6 +3,9 @@
 #TMDB
 DOMAIN-SUFFIX,tmdb.org
 
+#Trakt
+DOMAIN-SUFFIX,trakt.tv
+
 
 #影视服
 
