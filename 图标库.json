@@ -3,21 +3,20 @@
 "description":"自用", 
 "icons":
 [
-    {"name":"01", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/01.png"},
-    {"name":"02", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/02.png"},
-    {"name":"03", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/03.png"},
-    {"name":"04", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/04.png"},
-    {"name":"05", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/05.png"},
-    {"name":"06", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/06.png"},
-    {"name":"07", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/07.png"},
-    {"name":"08", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/08.png"},
-    {"name":"09", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/09.png"},
+    {"name":"1", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/01.png"},
+    {"name":"2", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/02.png"},
+    {"name":"3", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/03.png"},
+    {"name":"4", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/04.png"},
+    {"name":"5", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/05.png"},
+    {"name":"6", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/06.png"},
+    {"name":"7", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/07.png"},
+    {"name":"8", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/08.png"},
+    {"name":"9", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/09.png"},
     {"name":"10", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/10.png"},
     {"name":"11", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/11.png"},
     {"name":"12", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/12.png"},
     {"name":"13", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/13.png"},
     {"name":"14", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/14.png"},
-    {"name":"15", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/15.png"},
-    {"name":"16", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/16.png"}
+    {"name":"15", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/15.png"}
     ]
     }
