@@ -4,13 +4,13 @@
   "icon": "https://github.com/h05n/-/blob/main/icon.png",
   "widgets": [
     {
-      "id": "forward.tmdb",
-      "title": "TMDB",
-      "description": "获取 TMDB 的榜单数据",
+      "id": "douban",
+      "title": "豆瓣我看&豆瓣个性化推荐",
+      "description": "解析豆瓣想看、在看、已看以及根据个人数据生成的个性化推荐【五折码：CHEAP.5;七折码：CHEAP】",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Forward",
-      "url": "https://github.com/InchStudio/ForwardWidgets/blob/master/widgets/tmdb.js"
+      "version": "1.0.7",
+      "author": "huangxd",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/douban.js"
     }
   ]
 }
