@@ -1,7 +1,7 @@
 {
   "title": "Forward Widgets",
   "description": "Forward Official Widgets",
-  "icon": "https://assets.vvebo.vip/scripts/icon.png",
+  "icon": "https://github.com/h05n/-/blob/main/icon.png",
   "widgets": [
     {
       "id": "forward.tmdb",
