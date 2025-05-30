@@ -2,8 +2,7 @@
   "title": "聚合模块",
   "description": "自用",
   "icon": "https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/014.png",
-  "widgets":
-[
+  "widgets":[
 {
       "id": "bangumi_charts_tmdb_v4_final",
       "title": "Bangumi",
