@@ -1,17 +1,16 @@
 {
-  "title": "Forward模块",
-  "description": "自用",
-  "icon": "https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/icon.png",
+  "title": "Forward Widgets",
+  "description": "Forward Official Widgets",
+  "icon": "https://assets.vvebo.vip/scripts/icon.png",
   "widgets": [
     {
-      "id": "yatu",
-      "title": "雅图(每日放送+点播排行榜+评分排行榜)",
-      "description": "解析雅图每日放送更新以及各类排行榜【五折码：CHEAP.5;七折码：CHEAP】",
+      "id": "forward.tmdb",
+      "title": "TMDB",
+      "description": "获取 TMDB 的榜单数据",
       "requiredVersion": "0.0.1",
-      "version": "1.0.3",
-      "author": "huangxd",
-      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/yatu.js"
+      "version": "1.0.0",
+      "author": "Forward",
+      "url": "https://raw.githubusercontent.com/InchStudio/ForwardWidgets/refs/heads/master/widgets/tmdb.js"
     }
   ]
 }
-https://raw.githubusercontent.com/InchStudio/ForwardWidgets/refs/heads/master/widgets/tmdb.js
