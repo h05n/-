@@ -1,7 +1,7 @@
 {
   "title": "Forward",
   "description": "模块",
-  "icon": "https://raw.githubusercontent.com/h05n/-/refs/heads/main/icon.png",
+  "icon": "https://assets.vvebo.vip/scripts/icon.png",
   "widgets": [
     {
       "id": "bangumi_charts_tmdb_v4_final",
