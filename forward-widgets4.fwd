@@ -1,6 +1,6 @@
 {
-  "title": "Forward",
-  "description": "自用模块",
+  "title": "Forward模块",
+  "description": "自用",
   "icon": "https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/icon.png",
   "widgets": [
     {
