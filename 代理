@@ -3,6 +3,9 @@
 #TMDB
 DOMAIN-SUFFIX,tmdb.org
 
+#imdb
+DOMAIN-SUFFIX,imdb.com
+
 #Trakt
 DOMAIN-SUFFIX,trakt.tv
 
