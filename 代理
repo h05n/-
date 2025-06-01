@@ -1,5 +1,9 @@
 #综合
 
+#Bangumi
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,bangumi.tv
+
 #TMDB
 DOMAIN-SUFFIX,tmdb.org
 
