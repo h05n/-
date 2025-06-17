@@ -3,20 +3,20 @@
 "description":"自用", 
 "icons":
 [
-    {"name":"1", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/001.png"},
-    {"name":"2", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/002.png"},
-    {"name":"3", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/003.png"},
-    {"name":"4", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/004.png"},
-    {"name":"5", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/005.png"},
-    {"name":"6", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/006.png"},
-    {"name":"7", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/007.png"},
-    {"name":"8", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/008.png"},
-    {"name":"9", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/009.png"},
-    {"name":"10", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/010.png"},
-    {"name":"11", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/011.png"},
-    {"name":"12", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/012.png"},
-    {"name":"13", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/013.png"},
-    {"name":"14", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/014.png"},
-    {"name":"15", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/015.png"}
+    {"name":"芙莉莲1", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/芙莉莲1.png"},
+    {"name":"后藤一里1", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/后藤一里1.png"},
+    {"name":"后藤一里2", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/后藤一里2.png"},
+    {"name":"后藤一里3", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/后藤一里3.png"},
+    {"name":"后藤一里4", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/后藤一里4.png"},
+    {"name":"秋山澪1", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/秋山澪1.png"},
+    {"name":"山田凉1", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/山田凉1.png"},
+    {"name":"山田凉2", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/山田凉2.png"},
+    {"name":"山田凉3", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/山田凉3.png"},
+    {"name":"喜多郁代1", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/喜多郁代1.png"},
+    {"name":"喜多郁代2", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/喜多郁代2.png"},
+    {"name":"喜多郁代3", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/喜多郁代3.png"},
+    {"name":"伊地知虹夏1", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/伊地知虹夏1.png"},
+    {"name":"伊地知虹夏2", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/伊地知虹夏2.png"},
+    {"name":"伊地知虹夏3", "url":"https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/伊地知虹夏3.png"}
 ]
 }
