@@ -1,17 +1,7 @@
 {
   "title": "模块",
-  "description": "自用",
   "icon": "https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/自用1（圆角矩形）.png",
   "widgets": [
-    {
-      "id": "forward.combined.media.lists",
-      "title": "影视榜单",
-      "description": "聚合豆瓣、TMDB、IMDB和Bangumi的电影、剧集、动画片单与榜单",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "佚名",
-      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/combined.js"
-    },
     {
       "id": "bangumi_charts_tmdb_v3",
       "title": "Bangumi",
