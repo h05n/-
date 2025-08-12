@@ -1,6 +1,6 @@
 {
   "title": "模块",
-  "description": "作者:，",
+  "description": "作者：，",
   "icon": "https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/自用1（圆角矩形）.png",
   "widgets": [
     {
@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0", 
       "author": "，",
-      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
+      "url": "https://raw.githubusercontent.com/h05n/-/refs/heads/main/脚本/Bangumi.js"
     },
     {
       "id": "forward.playurl.danmu",
@@ -19,7 +19,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "，",
-      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_playurl.js"
+      "url": "https://raw.githubusercontent.com/h05n/-/refs/heads/main/脚本/手动链接弹幕.js"
     },
     {
       "id": "forward.auto.danmu",
@@ -28,7 +28,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "，",
-      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
+      "url": "https://raw.githubusercontent.com/h05n/-/refs/heads/main/脚本/自动链接弹幕.js"
     }
   ]
 }
