@@ -1,0 +1,43 @@
+{
+  "title": "模块",
+  "description": "自用",
+  "icon": "https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/自用1（圆角矩形）.png",
+  "widgets": [
+    {
+      "id": "forward.combined.media.lists",
+      "title": "影视榜单",
+      "description": "聚合豆瓣、TMDB、IMDB和Bangumi的电影、剧集、动画片单与榜单",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "佚名",
+      "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/combined.js"
+    },
+    {
+      "id": "bangumi_charts_tmdb_v3",
+      "title": "Bangumi",
+      "description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0", 
+      "author": "佚名",
+      "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
+    },
+    {
+      "id": "forward.playurl.danmu",
+      "title": "手动链接弹幕",
+      "description": "从指定播放链接和服务器获取弹幕",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "佚名",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_playurl.js"
+    },
+    {
+      "id": "forward.auto.danmu",
+      "title": "自动链接弹幕",
+      "description": "自动获取播放链接并从服务器获取弹幕",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "佚名",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
+    }
+  ]
+}
