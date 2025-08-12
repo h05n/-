@@ -20,6 +20,24 @@
       "version": "1.0.0", 
       "author": "佚名",
       "url": "https://raw.githubusercontent.com/opix-maker/Forward/refs/heads/main/js/Bangumi_v2.0.0.js"
+    },
+    {
+      "id": "forward.playurl.danmu",
+      "title": "手动链接弹幕",
+      "description": "从指定播放链接和服务器获取弹幕",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "佚名",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_playurl.js"
+    },
+    {
+      "id": "forward.auto.danmu",
+      "title": "自动链接弹幕",
+      "description": "自动获取播放链接并从服务器获取弹幕",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "佚名",
+      "url": "https://raw.githubusercontent.com/huangxd-/ForwardWidgets/refs/heads/main/widgets/danmu_auto.js"
     }
   ]
 }
