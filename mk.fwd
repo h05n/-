@@ -1,7 +1,7 @@
 {
   "title": "模块",
   "description": "自用",
-  "icon": "https://assets.vvebo.vip/scripts/icon.png",
+  "icon": "https://raw.githubusercontent.com/h05n/-/refs/heads/main/图标库/自用1.png",
   "widgets": [
     {
       "id": "forward.combined.media.lists",
