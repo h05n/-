@@ -1,22 +1,3 @@
-#综合
-
-#Bangumi
-DOMAIN-SUFFIX,bgm.tv
-DOMAIN-SUFFIX,bangumi.tv
-
-#TMDB
-DOMAIN-SUFFIX,tmdb.org
-
-#imdb
-DOMAIN-SUFFIX,imdb.com
-
-#Trakt
-DOMAIN-SUFFIX,trakt.tv
-
-
 #影视服
-
-#纸片人小站
-DOMAIN-SUFFIX,embyplus.org
 
 #
