@@ -1,10 +1,19 @@
 #影视服#
 
-#蛋服
-DOMAIN-SUFFIX,wonderegg.de
+#起点站
+DOMAIN-SUFFIX,qdz1.top
+
+#琴美电视台
+DOMAIN-SUFFIX,ichinosekotomi.vip
+
+#琴鸟
+IP-CIDR,188.172.228.65/32
 
 #紫罗兰
 IP-CIDR,46.3.109.178/32
+
+#纸片人小站
+DOMAIN-SUFFIX,029902.xyz
 
 #pilipili
 DOMAIN-SUFFIX,43992026.xyz
@@ -12,22 +21,7 @@ DOMAIN-SUFFIX,43992026.xyz
 #结束乐队
 DOMAIN-SUFFIX,kessoku-bando.biliblili.uk
 
-#纸片人小站
-DOMAIN-SUFFIX,029902.xyz
-
-#琴鸟
-IP-CIDR,188.172.228.65/32
-
-#起点站
-DOMAIN-SUFFIX,qdz1.top
-
-#琴美电视台
-DOMAIN-SUFFIX,ichinosekotomi.vip
-
 #大V影院
 IP-CIDR,43.143.248.18/32
-
-#Onyra
-DOMAIN-SUFFIX,onyra.cc
 
 #
